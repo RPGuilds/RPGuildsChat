@@ -1,4 +1,4 @@
-package me.XxXYaJrAbXxX.RPGuildsChat.GetData;
+package me.XxXYaJrAbXxX.RPGuildsChat.DataManipulation;
 
 import java.io.File;
 
